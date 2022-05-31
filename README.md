@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-Electron.js-1f425f.svg"/>
-  <a href="https://github.com/AloneDay-91/logiciel-qrcode/releases"><img src="https://img.shields.io/github/downloads/AloneDay-91/logiciel-qrcode/total.svg"/></a>
+  <a href="https://github.com/AloneDay-91/logiciel-qrcode/release"><img src="https://img.shields.io/github/downloads/AloneDay-91/logiciel-qrcode/total.svg"/></a>
   <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"/>
 </p>
 
